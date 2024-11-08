@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Waleed-creator
+- 👋 Hi, I’m @Waleed-creator (web)
 - 👀 I’m interested in ...  (Web Development)
 - 🌱 I’m currently learning ... Bs(Computer Science)
 - 📫 How to reach me ... "mwaleed22102645@gmail.com"
