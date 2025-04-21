@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Waleed-creator (web)
-- 👀 I’m interested in ...  (Web Development)
+- 👀 I’m interested in ...  (Web Development | Web Designer | App Designer | App Developer | Adobe XD | Figma | Graphic Designer)
 - 🌱 I’m currently learning ... Bs(Computer Science)
 - 📫 How to reach me ... "mwaleed22102645@gmail.com"
 
