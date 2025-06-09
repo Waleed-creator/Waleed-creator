@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Waleed</h1>
 <h3 align="center">A passionate Graphic designer And React Native App Developer from Pakistan</h3>
 
-<img align=""right" alt="Designer and developer" width="400" src="https://github.com/Waleed-creator/Waleed-creator/blob/main/download.gif">
+<img align=""right" alt="Designer and developer" width="400" src="https://github.com/Waleed-creator/Waleed-creator/blob/main/download.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleed-creator&label=Profile%20views&color=0e75b6&style=flat" alt="waleed-creator" /> </p>
 
