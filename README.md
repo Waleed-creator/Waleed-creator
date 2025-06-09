@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/waleed khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleed khalid" height="30" width="40" /></a>
-<a href="www.youtube.com/@Professor-Hunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@professor-hunter" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Professor-Hunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@professor-hunter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
